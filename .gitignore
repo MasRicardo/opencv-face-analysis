@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+sample.jpg
+hasil-*.png
+*.part
